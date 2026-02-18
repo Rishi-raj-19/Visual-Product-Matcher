@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-Website Deployment Demo : https://visual-product-matcher-git-main-rishi-raj-19s-projects.vercel.app/
+Website Deployment Demo : https://visual-product-matcher-v3.wasmer.app/
 ## Run Locally
 
 **Prerequisites:**  Node.js
