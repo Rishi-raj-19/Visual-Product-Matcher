@@ -1,46 +1,20 @@
-🚀 Features
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-📤 Image Upload
-Upload image from local device
-Paste an image URL
-Preview uploaded image before search
-🔍 Visual Similarity Search
-AI-powered image analysis using Gemini
-Displays visually similar products
-Similarity score for each product
-Filter products based on similarity threshold
+# Run and deploy your AI Studio app
 
-🛍️ Product Database
-50+ products
-Each product includes:
-Name
-Category
-Price
-Description
-Image
-Similarity score
+This contains everything you need to run your app locally.
 
-🎨 User Interface
-Responsive design
-Clean product cards
-Loading indicators
-Built with Tailwind CSS
+View your app in AI Studio: https://ai.studio/apps/drive/1sb9kNiUnP8DmXqYB6NwIz6tquO-dkPz0
 
-🏗️ Tech Stack
-React 19
-TypeScript
-Vite
-Gemini API (@google/genai)
-Tailwind CSS
+## Run Locally
 
-
-##Run Locally
 **Prerequisites:**  Node.js
+
 
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-
-Live Hosting : https://visual-product-matcher.wasmer.app/
