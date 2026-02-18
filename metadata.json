@@ -1,0 +1,5 @@
+{
+  "name": "Visual Product V2",
+  "description": "A smart visual search tool that uses Gemini AI to find products in your catalog matching an uploaded image.",
+  "requestFramePermissions": []
+}
